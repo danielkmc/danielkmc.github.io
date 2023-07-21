@@ -1,74 +1,98 @@
 {
-  "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+  "general information": {
+    "name": "Daniel Chen",
+    "label": "",
+    "image": "/assets/img/Affirm_logo.png",
+    "email": "danielmc4102@gmail.com",
+    "phone": "",
+    "url": "https://danielkmc.github.io/",
+    "summary": "",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "",
+      "position": "Software Engineer - Affirm",
+      "startDate": "2022-06",
+      "endDate": "2023-02",
+      "summary": "",
       "highlights": [
-        "Relativity"
+        "Designed Buildkite CI test in Python for GitHub to identify PII usage across 1000+ Dbt SQL models using YAML metadata from Datahub.",
+        "Used Airflow and Dbt to gather freshness information of Dbt models and source data using Snowflake metadata, and provide multiple engineering and BI teams clarity on data freshness.",
+        "Performed cost analysis on company’s Dbt usage and investigated benefits of horizontal/vertical scaling within Snowflake.",
+        "Prepared new region infrastructure in Snowflake, involving the configuration of Snowflake roles, databases, tables, and warehouses using Terraform, +1000 Dbt model migration, and coordination of analysts and engineering teams across the company to determine prioritization of the given tasks.",
+        "Created multiple ELT processes using Dbt by request for analysts across the company, improving data transparency, processing efficiency, and availability of company analytics.",
+        "Designed and troubleshooted Looker dashboards for analysts to understand company data."
+      ] 
+    },
+    {
+      "name": "",
+      "position": "Data Analyst - Integra FEC",
+      "url": "https://integrafec.com/",
+      "startDate": "2022-01",
+      "endDate": "2022-02",
+      "summary": "",
+      "highlights": [
+        "Designed algorithm in Python to associate blockchain transactions/movements to users, gathering evidence for fraud investigations clients requested.",
+        "Worked on refactoring and documenting a research-grade C# project used to generate mark-up and mark-down pricing data of municipal bond sales from financial institutions."
+      ]
+    },
+    {
+      "name": "",
+      "position": "Data Engineer Intern - H-E-B",
+      "url": "https://heb.com/",
+      "startDate": "2021-06",
+      "endDate": "2021-08",
+      "summary": "",
+      "highlights": [
+        "Worked on React dashboard using PostgreSQL databases to display ETL job statuses, user database permissions, and service-level agreements (SLAs) using Kubernetes, Docker, and Datadog"
       ]
     }
   ],
   "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "institution": "",
+      "url": "https://www.utexas.edu/",
+      "area": "",
+      "studyType": "The University of Texas at Austin - B.S. Computer Science, B.S. Mathematics",
+      "startDate": "2018-08",
+      "endDate": "2022-12",
       "score": "",
       "courses": [
-        "Theory of Relativity"
+        {
+          "name": "Teaching Assistant for Principles of Computer Systems",
+          "description": "Provided assistance teaching about topics for approximately 450 students over four semesters relating to the x86-64 Linux operating system as well as the C language. Covered topics over CPU scheduling, processes, synchronization, virtual memory, file systems, and networking."
+        },
+        {
+          "name": "Coursework",
+          "description": "Distributed Systems, Algorithms, Principles of Computer Systems, Data Structures, Advanced Machine Learning, Discrete Math, Decision Analytics"
+        }
       ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
   "certificates": [],
   "publications": [],
   "skills": [],
-  "languages": [
+  "languages": [],
+  "programming skills": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
+      "name": "Languages",
+      "highlights": [
+        "C++, Python, Golang, C, Java, SQL"
+      ]
     },
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "name": "Technologies",
+      "highlights": [
+        "Linux, Shell Scripting, Snowflake, Dbt, Airflow, Git, CI/CD, Docker, Looker, Terraform"
+      ]
     }
   ],
   "interests": [],

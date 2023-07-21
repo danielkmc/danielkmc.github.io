@@ -52,7 +52,7 @@ layout: default
     {% if page.description %}<p class="post-description">{{ page.description }}</p>{% endif %}
   </header>
 
-  <h4>Table of contents</h4>
+  <!-- <h4>Table of contents</h4>
   <ul class="timeline">
   {% for entry in site.data.resume %}
     {% if site.jsonresume and site.jsonresume.size > 0 %}
@@ -65,7 +65,7 @@ layout: default
     {% endif %}
     <li><a href="#{{ entry[0] }}"><span class="badge-toc">{{ entry[0] | capitalize }}</span></a></li>
   {% endfor %}
-  </ul>
+  </ul> -->
 
   <article>
     <div class="cv">
@@ -83,7 +83,7 @@ layout: default
           <h3 class="card-title font-weight-medium">{{ data[0] | capitalize }}</h3>
           <div>
           {% case data[0] %}
-            {% when "basics" %}
+            {% when "general information" %}
               {% include resume/basics.html %}
             {% when "education" %}
               {% include resume/education.html %}
@@ -105,6 +105,8 @@ layout: default
               {% include resume/interests.html %}
             {% when "certificates" %}
               {% include resume/certificates.html %}
+            {% when "programming skills" %}
+              {% include resume/programming_skills.html %}
             {% else %}
 
           {% endcase %}
@@ -113,6 +115,18 @@ layout: default
       {% endfor %}
       </div>
   </article>
+    {%- if page.social %}
+    <div class="social">
+      <div class="contact-icons">
+        {% include social.html %}
+      </div>
 
+      <div class="contact-note">
+        {{ site.contact_note }}
+      </div>
+
+    </div>
+    {%- endif %}
+  
 </div>
 {% endunless %}
