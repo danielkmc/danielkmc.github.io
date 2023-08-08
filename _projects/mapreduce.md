@@ -3,7 +3,7 @@ layout: page
 title: MapReduce
 description: An implementation of the MapReduce algorithm in Golang.
 img: assets/img/mapreduce.png
-importance: 1
+importance: 2
 category: 
 # related_publications: einstein1956investigations, einstein1950meaning
 ---

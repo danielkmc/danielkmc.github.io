@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
     # <p>555 your office number</p>
@@ -23,7 +23,8 @@ Hi! I'm a recent graduate from [UT Austin](https://utexas.edu/) with a B.S. in C
 
 I'm currently looking for a new position as a software engineer primarily in distributed computing systems and high performance computing. 
 
-In my free time, I enjoy honing my tennis striking and taking time to explore whatever city I'm in on my bike. I also enjoy listening to podcasts that help explain the complexities of society and the hidden influence of money, some of my favorites being [`Freakonomics`](https://freakonomics.com/), [`Planet Money`](https://www.npr.org/podcasts/510289/planet-money), [`More Perfect`](https://www.wnycstudios.org/podcasts/radiolabmoreperfect), and [`Hidden Brain`](https://hiddenbrain.org/).
+In my free time, I enjoy honing my tennis striking and taking time to explore whatever city I'm in on my bike. I also enjoy listening to podcasts that talk about the complexities of society in terms of economics, some of my favorites being [`Freakonomics`](https://freakonomics.com/), [`Planet Money`](https://www.npr.org/podcasts/510289/planet-money), [`More Perfect`](https://www.wnycstudios.org/podcasts/radiolabmoreperfect), and [`Hidden Brain`](https://hiddenbrain.org/).
+
 
 If you think I'm a good fit for your role or just want to connect, feel free to contact me through my [`email`](mailto:danielmc4102@gmail.com) or connect on [`LinkedIn`](https://linkedin.com/in/danielkmc/)!
 
