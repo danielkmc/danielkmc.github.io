@@ -16,6 +16,6 @@ category:
 
 (Here is the [link](https://github.com/danielkmc/MIT-6.5840/tree/main/src/raft) to the github repo.)
 
-More details coming soon!
+More details coming soon! 
 
 
