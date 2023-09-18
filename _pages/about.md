@@ -19,12 +19,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I'm a recent graduate from [UT Austin](https://utexas.edu/) with a B.S. in Computer Science and a B.S. in Mathematics. 
+Hi! I'm a recent graduate from [UT Austin](https://utexas.edu/) with a B.S. in Computer Science and a B.S. in Mathematics.
 
-I'm currently looking for a new position as a software engineer primarily in distributed computing systems and high performance computing. 
+I'm currently looking for a new position as a software engineer with a focus on creating high performance computing solutions. My interests lie primarily on the financial tech industry and distributed computing, but I'm open to other roles that rely on efficient engineering.
 
-In my free time, I enjoy honing my tennis striking and taking time to explore whatever city I'm in on my bike. I also enjoy listening to podcasts that talk about the complexities of society in terms of economics, some of my favorites being [`Freakonomics`](https://freakonomics.com/), [`Planet Money`](https://www.npr.org/podcasts/510289/planet-money), [`More Perfect`](https://www.wnycstudios.org/podcasts/radiolabmoreperfect), and [`Hidden Brain`](https://hiddenbrain.org/).
-
+In my free time, I enjoy honing my tennis striking, taking time to explore whatever city I'm in on my bike, and trying out new recipes. I also value learning more about the world through podcasts expose the complexities of society, some of my favorites being [`Freakonomics`](https://freakonomics.com/), [`Planet Money`](https://www.npr.org/podcasts/510289/planet-money), [`More Perfect`](https://www.wnycstudios.org/podcasts/radiolabmoreperfect), and [`Hidden Brain`](https://hiddenbrain.org/).
 
 If you think I'm a good fit for your role or just want to connect, feel free to contact me through my [`email`](mailto:danielmc4102@gmail.com) or connect on [`LinkedIn`](https://linkedin.com/in/danielkmc/)!
 
