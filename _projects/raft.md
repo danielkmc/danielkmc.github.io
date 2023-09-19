@@ -3,7 +3,7 @@ layout: page
 title: raft
 description: An implementation of the famous Raft consensus algorithm in Golang.
 img: assets/img/raft.png
-importance: 1
+importance: 2
 category: 
 ---
 

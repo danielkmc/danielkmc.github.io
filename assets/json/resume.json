@@ -19,16 +19,17 @@
     {
       "name": "",
       "position": "Software Engineer - Affirm",
+      "url": "https://affirm.com/",
       "startDate": "2022-06",
       "endDate": "2023-02",
       "summary": "",
       "highlights": [
-        "Designed Buildkite CI test in Python for GitHub to identify PII usage across 1000+ Dbt SQL models using YAML metadata from Datahub.",
-        "Used Airflow and Dbt to gather freshness information of Dbt models and source data using Snowflake metadata, and provide multiple engineering and BI teams clarity on data freshness.",
-        "Performed cost analysis on company’s Dbt usage and investigated benefits of horizontal/vertical scaling within Snowflake.",
-        "Prepared new region infrastructure in Snowflake, involving the configuration of Snowflake roles, databases, tables, and warehouses using Terraform, +1000 Dbt model migration, and coordination of analysts and engineering teams across the company to determine prioritization of the given tasks.",
-        "Created multiple ELT processes using Dbt by request for analysts across the company, improving data transparency, processing efficiency, and availability of company analytics.",
-        "Designed and troubleshooted Looker dashboards for analysts to understand company data."
+        "Aided in Snowflake region configuration of roles, databases, tables, and warehouses using Terraform and refactoring of existing Dbt code to include new regions.",
+        "Designed and deployed Buildkite CI tests using Python, Airflow, and K8s to identify PII usage across all Dbt models.",
+        "Developed Airflow jobs to track replicated Snowflake data freshness, providing BI teams clarity on updates and improving on-call resolution times.",
+        "Performed independent cost analysis on company’s Dbt and Snowflake scaling, which lead to multi-million dollar savings in department usage of the services.",
+        "Maintained Python CLI tooling used to deploy new Dbt ELTs, providing continuous support for all users.",
+        "Designed and supported Looker dashboards for critical reports and email alerts."
       ] 
     },
     {
@@ -36,11 +37,11 @@
       "position": "Data Analyst - Integra FEC",
       "url": "https://integrafec.com/",
       "startDate": "2022-01",
-      "endDate": "2022-02",
+      "endDate": "2022-04",
       "summary": "",
       "highlights": [
-        "Designed algorithm in Python to associate blockchain transactions/movements to users, gathering evidence for fraud investigations clients requested.",
-        "Worked on refactoring and documenting a research-grade C# project used to generate mark-up and mark-down pricing data of municipal bond sales from financial institutions."
+        "Designed Python scripts to trace blockchain transactions and generate charts in Jupyter using Matplotlib and Seaborn visualization packages.",
+        "Redesigned and provided documentation for research-grade C# project used to generate mark-up and mark-down pricing data of municipal bond sales from financial institutions."
       ]
     },
     {
@@ -51,7 +52,7 @@
       "endDate": "2021-08",
       "summary": "",
       "highlights": [
-        "Worked on React dashboard using PostgreSQL databases to display ETL job statuses, user database permissions, and service-level agreements (SLAs) using Kubernetes, Docker, and Datadog"
+        "Worked on React dashboard using PostgreSQL databases to display ETL job statuses, user database permissions, and service-level agreements (SLAs) using K8s, Docker, and Datadog."
       ]
     }
   ],
@@ -72,7 +73,7 @@
         },
         {
           "name": "Coursework",
-          "description": "Distributed Systems, Algorithms, Principles of Computer Systems, Data Structures, Advanced Machine Learning, Discrete Math, Decision Analytics"
+          "description": "Distributed Systems, Algorithms, Principles of Computer Systems, Data Structures, Advanced Machine Learning, Discrete Math, Probability and Statistics, Decision Analytics"
         }
       ]
     }
@@ -85,13 +86,13 @@
     {
       "name": "Languages",
       "highlights": [
-        "C++, Python, Golang, C, Java, SQL"
+        "Modern C++, Python, Golang, C, Java, SQL"
       ]
     },
     {
       "name": "Technologies",
       "highlights": [
-        "Linux, Shell Scripting, Snowflake, Dbt, Airflow, Git, CI/CD, Docker, Looker, Terraform"
+        "Linux, Shell Scripting, Snowflake, Machine learning, Dbt, Airflow, Git, CI/CD, Docker, Looker, Terraform"
       ]
     }
   ],
